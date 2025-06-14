@@ -5,6 +5,23 @@ The project helps in understanding basic game development concepts like 2D array
 event handling, and UI design using Java Swing."
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 package com.Game;
 import java.util.Scanner;
 public class Tik_tok_toy1 {
