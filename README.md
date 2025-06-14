@@ -11,7 +11,6 @@ public class Tik_tok_toy1 {
 	static String black="\u001B[30m";
 	static String red="\u001B[36m"+"\u001B[31m";
 	static String yellow="\u001B[33m";
- 
 	static char[][] a = {{' ',' ',' '},
 				{' ',' ',' '},
 				{' ',' ',' '}};
