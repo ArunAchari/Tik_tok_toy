@@ -2,25 +2,7 @@
 "This is a simple Java-based Tic-Tac-Toe game developed using core Java and Swing for GUI.
 It allows two players to play on a 3x3 grid with turn-based logic. 
 The project helps in understanding basic game development concepts like 2D arrays, 
-event handling, and UI design using Java Swing."
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+event handling, and UI design using Java Swing.
 
 package com.Game;
 import java.util.Scanner;
