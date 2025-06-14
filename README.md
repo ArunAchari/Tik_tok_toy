@@ -1,8 +1,9 @@
 #Tik_tok_toy
+"This is a simple Java-based Tic-Tac-Toe game developed using core Java and Swing for GUI. It allows two players to play on a 3x3 grid with turn-based logic. The project helps in understanding basic game development concepts like 2D arrays, event handling, and UI design using Java Swing."
+
+
 package com.Game;
-
 import java.util.Scanner;
-
 public class Tik_tok_toy1 {
 	static String green="\u001B[32m";
 	static String blue="\u001B[34m";
@@ -10,8 +11,7 @@ public class Tik_tok_toy1 {
 	static String black="\u001B[30m";
 	static String red="\u001B[36m"+"\u001B[31m";
 	static String yellow="\u001B[33m";
-
-
+ 
 	static char[][] a = {{' ',' ',' '},
 				{' ',' ',' '},
 				{' ',' ',' '}};
